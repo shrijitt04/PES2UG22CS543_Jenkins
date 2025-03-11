@@ -10,7 +10,7 @@ pipeline {
         
         stage('Test') {
             steps {
-                sh './PES2UG22CS543-1-1'
+                sh './PES2UG22CS543-1'
             }
         }
         
